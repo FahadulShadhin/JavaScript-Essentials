@@ -291,7 +291,7 @@ var apple1 = new Apple('red', '123');
 ---
 ## If Statement:
 ---
-## For...in & For...of Loop:
+## for...in & for...of Loop:
 ```JavaScript
 a = [1, 2, 3]
 
