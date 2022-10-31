@@ -120,6 +120,12 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Oper
 >> greet = "Hello"
 >> 10 += greet
 "10Hello"
+
+>> 10 + 5 + "hello"
+"15Hello"
+
+>> "hello" + 5 + 10;
+"hello510"
 ```
 * The functionality of `+` and `+=` operators changed
 * Polymorphism - one with various forms
