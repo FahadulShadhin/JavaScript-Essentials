@@ -291,12 +291,25 @@ var apple1 = new Apple('red', '123');
 ---
 ## If Statement:
 ---
-## For & For In Loops:
+## For...in & For...of Loop:
 ```JavaScript
 a = [1, 2, 3]
 
 for ( let i in a ) {
   console.log(a[i]);
+}
+
+Output:
+1
+2
+3
+```
+
+```JavaScript
+a = [1, 2, 3]
+
+for ( let i of a ) {
+  console.log(i);
 }
 
 Output:
