@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <h1>JavaScript Essentials</h1>
+    <h2 id="demo"></h2>
+    <!-- <button type="button" onclick="document.write('button clicked!')">Try it</button> -->
+    <button type="button" onclick="window.alert('This is an alert.');">click</button>
+    
+    <!-- <script src="script.js"> -->
+    <script>
+      // document.getElementById('demo').innerHTML = 5 + 6;
+      // document.write('I am a fool');
+      // window.alert('This is an alert.');
+      const carName = 'Nissan', owner = 'John Doe', price = '200';
+      document.getElementById('demo').innerHTML = owner + ' owns a ' + carName + ', Price = ' + price;
+    </script>
+  </body>
+</html>
