@@ -24,7 +24,7 @@ function merge(nums1, m, nums2, n) {
         }
     }
     
-    while( m>=0 ) {
+    while(m >= 0) {
         nums1[index] = nums1[m];
         m--;
         index--;
