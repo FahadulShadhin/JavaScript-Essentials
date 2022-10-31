@@ -301,9 +301,8 @@ Output:
 ---
 ## ES6:
 * `var` vs `let` vs `const` 
-* https://www.w3schools.com/js/js_variables.asp
-* https://www.w3schools.com/js/js_let.asp
-* https://www.w3schools.com/js/js_const.asp
+* arrow functions, set, map, class, promises, modules and many more features.
+* https://www.w3schools.com/js/js_es6.asp
 ---
 
 # Day 4 - DOM Manipulation
