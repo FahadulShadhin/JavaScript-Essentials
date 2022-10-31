@@ -326,6 +326,7 @@ Output:
 
 # Day 4 - DOM Manipulation
 
+* The `document` object
 * Document Object Model (DOM)
 * Can change, add, and remove HTML elements
 * Can change, add, and remove HTML attributes
