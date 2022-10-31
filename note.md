@@ -330,5 +330,5 @@ Output:
 * Can change, add, and remove HTML elements
 * Can change, add, and remove HTML attributes
 * Can change CSS
-* Can react to and event or create an event
+* Can react to or create an event
 ---
