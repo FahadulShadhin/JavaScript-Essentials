@@ -2,24 +2,24 @@
 
 ## JavaScript has many names:
 
-- LiveScript - First release
-- JScript - Internet Explorer
-- Mocha - Dev name
-- ECMAScript
+* LiveScript - First release
+* JScript - Internet Explorer
+* Mocha - Dev name
+* ECMAScript
 
 ---
 
-- JS is based on two languages - **Self** and **Schema**
-- No relation with **Java**!
-- Creator **Brendan Eich** (1995)
-- Sun Microsyetems
+* JS is based on two languages - **Self** and **Schema**
+* No relation with **Java**!
+* Creator **Brendan Eich** (1995)
+* Sun Microsyetems
 
 ---
 
-- Rendering Engine - Renders HTML and CSS
-- JavaScript Engine - Converts human readable JS code to machine code
-- JS uses __JIT (Just In Time)__ Compiler
-- JavaScript Console in browser developer tools
+* Rendering Engine - Renders HTML and CSS
+* JavaScript Engine - Converts human readable JS code to machine code
+* JS uses __JIT (Just In Time)__ Compiler
+* JavaScript Console in browser developer tools
 
 ---
 
@@ -36,15 +36,15 @@
 }
 ```
 
-- think of `key:value` pairs as:
+* think of `key:value` pairs as:
   1. nouns: adjectives - __properties__
   2. nouns: verbs - __functions__
-- key:value pairs are properties of an object
-- A function contained within an object is called a `methods`
+* key:value pairs are properties of an object
+* A function contained within an object is called a `methods`
 
 ### Encapsulation:
-- `{ encapsulation }`
-- Grouping data within an object is __Encapsulation__
+* `{ encapsulation }`
+* Grouping data within an object is __Encapsulation__
 
 ### Embedded Objects:
 * This is __Hierarchy__ - objects within objects
