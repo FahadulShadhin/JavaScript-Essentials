@@ -299,3 +299,12 @@ Output:
 ## ES6:
 * `var` vs `let` vs `const` 
 ---
+
+# Day 4 - DOM Manipulation
+
+* Document Object Model (DOM)
+* Can change, add, and remove HTML elements
+* Can change, add, and remove HTML attributes
+* Can change CSS
+* Can react to and event or create an event
+---
