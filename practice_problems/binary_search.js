@@ -2,7 +2,7 @@ const arr = [1, 2, 3, 4, 5, 6, 7];
 const size = arr.length;
 const target = 22;
 
-const binarySearch = function ( arr, size, target ) {
+const binarySearch = ( arr, size, target ) => {
     let left = 0, right = size-1;
 
     while(left <= right) {
