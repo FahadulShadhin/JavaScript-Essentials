@@ -279,6 +279,9 @@ var apple1 = new Apple('red', '123');
 ## Comparisn Operators:
 
 * `===` & `!==` prevents polymorphism when comparing
+* 3rd `=` sign checks type
+* `2=="2"` is `true`
+* `2==="2"` is `false`
 ---
 ## If Statement:
 ---
@@ -298,6 +301,9 @@ Output:
 ---
 ## ES6:
 * `var` vs `let` vs `const` 
+* https://www.w3schools.com/js/js_variables.asp
+* https://www.w3schools.com/js/js_let.asp
+* https://www.w3schools.com/js/js_const.asp
 ---
 
 # Day 4 - DOM Manipulation
