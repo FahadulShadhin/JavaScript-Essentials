@@ -332,4 +332,7 @@ Output:
 * Can change, add, and remove HTML attributes
 * Can change CSS
 * Can react to or create an event
+* `innerHTML` & `outerHTML`
+* `innerText` & `outerText`
+* CSS selectors: `document.querySelectorAll()` & `document.querySelector()`
 ---
