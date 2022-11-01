@@ -215,6 +215,18 @@ arr[2]
 ---
 
 ## Member Creation, Assignment & Deletion:
+```JavaScript
+car.make = Nissan // car["make"] = Nissan
+car.speed *= 2
+car.engine.size = 3.0
+
+// Crete new
+car.model = 'xyz'
+
+// Delete
+delete car.model
+```
+---
 ## Array Modification:
 
 * `push()`
@@ -241,6 +253,8 @@ arr[2]
 ---
 
 ## Inferred Globals & Scope:
+* `window` object is global scope
+* Be careful when re-assigining value to a variable
 ---
 
 ## This Context:
